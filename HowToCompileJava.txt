@@ -1,0 +1,8 @@
+//**HOW TO COMPILE JAVA IN CMD**\\
+
+1.) OPEN CMD
+2.) COPY FILE PATH TO THE BIN FOLDER FOR YOUR JDK
+C:\Program Files\Java\jdk-10.0.2\bin
+3.) TYPE set path="<address path>" INTO THE COMMAND LINE
+4.) COMPILE CODE USING javac <filename>.java
+5.) RUN USING java <filename>
